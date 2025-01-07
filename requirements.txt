@@ -2,3 +2,4 @@ streamlit
 openai
 torch
 torchvision
+transformers
